@@ -12,7 +12,7 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 ### 1. Register a new Amazon account (optional)
  
 The tablet will be registered to this account.  
-I used a clean account so it can be locked down to prevent purchases and so.
+I used a clean account so it can be locked down to prevent purchases and such.
 
 
 ### 2. Register a new Google account (optional)
@@ -35,29 +35,29 @@ Go to Settings -> Device Options -> Updates -> Systems Updates -> Update
 ### 5. OS settings
 
 Apps & Notifications:  
-  Notifications:  
-    Suggested actions and replies: disable  
-    Do Not Disturb:
-      click "Turn On Now"
-      Alarms & other interruptions: disable everything
+  * Notifications:  
+    * Suggested actions and replies: disable  
+    * Do Not Disturb:
+      * click "Turn On Now"
+      * Alarms & other interruptions: disable everything
 
 Display:  
-  Adaptive brightness: on  
-  Screen timeout: 30 minutes  
-  Auto-rotate screen: enabled  
+  * Adaptive brightness: on  
+  * Screen timeout: 30 minutes  
+  * Auto-rotate screen: enabled  
 
 Security & Privacy:  
-  Passcode: disabled
-  Location-Based Services:  
-    App access to location: deny for "Special Offers"
-    Wi-Fi and Bluetooth scanning: both disabled    
-  Collect App Usage Data: disabled  
+  * Passcode: disabled
+  * Location-Based Services:  
+    * App access to location: deny for "Special Offers"
+    * Wi-Fi and Bluetooth scanning: both disabled    
+  * Collect App Usage Data: disabled  
 
 Home Search Bar:
-  Show Bing Trending Suggestions: disabled  
+  * Show Bing Trending Suggestions: disabled  
 
 Device Options:
-  About Fire Tablet: tap on "Serial Number" until Developer mode gets enabled
+  * About Fire Tablet: tap on "Serial Number" until Developer mode gets enabled
 
 
 ### 6. Appstore
@@ -66,9 +66,9 @@ I've bought "PixFolio - Google Photos and Slideshows" from the new Amazon accoun
 Alternatively, there is "Fotoo" which has a limited, free version.  
 
 Additionally I've made the following changes in the "Appstore Settings":
-  In-App Purchasing: disabled  
-  Automatic Updates: disabled  
-  Notifications for Appstore: disabled  
+  * In-App Purchasing: disabled  
+  * Automatic Updates: disabled  
+  * Notifications for Appstore: disabled  
 
 
 ### 7. Declutter the homescreen
@@ -83,40 +83,40 @@ Below are some configuration changes I've used for PixFolio:
 
 
 General:  
-  Photos:  
-    Photo Background: Blur  
-    Fill Screen: "If Similar Size"  
+  * Photos:  
+    * Photo Background: Blur  
+    * Fill Screen: "If Similar Size"  
 
-  Videos:  
-    Auto Play: enabled  
+  * Videos:  
+    * Auto Play: enabled  
 
-  General:  
-    Staring Folder: selected the shared folder  
+  * General:  
+    * Staring Folder: selected the shared folder  
 
 
 Slideshows:  
-  Show Widgets:  
-    Show Widgets:  
-      Clock:  
-        Show Clock: enabled 
-        Show Date: disabled  
-        Show Current Conditions: disabled   
-      Weather:  
-        Show Forecast: enabled  
-        Units: metric  
-    Slide Display Time: 5 minutes
-    Animation: Randomize
+  * Show Widgets:  
+    * Show Widgets:  
+      * Clock:  
+        * Show Clock: enabled 
+        * Show Date: disabled  
+        * Show Current Conditions: disabled   
+      * Weather:  
+        * Show Forecast: enabled  
+        * Units: metric  
+    * Slide Display Time: 5 minutes
+    * Animation: Randomize
 
-  Content:  
-    Randomize Multiple Albums: disabled  
+  * Content:  
+    * Randomize Multiple Albums: disabled  
 
-  Videos:  
-    Play Videos: enabled  
-    Mute Videos: enabled  
+  * Videos:  
+    * Play Videos: enabled  
+    * Mute Videos: enabled  
 
-  Start and Stop:
-    Start Slideshow: enabled  
-    Auto Start App: enabled  
+  * Start and Stop:
+    * Start Slideshow: enabled  
+    * Auto Start App: enabled  
 
 
 ### 9. Disabling the lockscreen  
