@@ -145,3 +145,10 @@ https://github.com/MuntashirAkon/SetEdit/releases
 **Note**: After these changes some functions and menus of the OS will no longer be available. To revert the changes, simply change back the values to 0 and 1 respectively and reboot the tablet.
 
 8. Reboot tablet
+
+
+### 10. Print charging dock (optional)
+
+Designed an easy to print dock for the 12th gen Fire HD8 that also hides the charging cable.  
+https://www.printables.com/model/677700-fire-hd-8-2022-12th-gen-charging-dock
+
